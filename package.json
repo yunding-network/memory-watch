@@ -1,0 +1,25 @@
+{
+  "name": "memory-watch",
+  "version": "1.0.0",
+  "description": "memory leak analyze tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yunding-network/memory-watch.git"
+  },
+  "keywords": [
+    "yunding",
+    "memory",
+    "leak",
+    "analyzer"
+  ],
+  "author": "Yunding-network",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yunding-network/memory-watch/issues"
+  },
+  "homepage": "https://github.com/yunding-network/memory-watch#readme"
+}
